@@ -1,0 +1,17 @@
+.home-hero-bg {
+    background-image: url('../images/Home-img.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; 
+}
+
+.hero-bg {
+    background-image: url('../images/shop.png');
+    background-size: cover;
+    object-fit: cover;
+    background-position: center;
+    height: 80vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
