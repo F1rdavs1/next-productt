@@ -34,7 +34,7 @@ const Header = () => {
             href={"/contact"}
             className="font-medium text-[16px] leading-[24px]"
           >
-            Contact
+            Bu Contact
           </Link>
           <Link
             href={"/blog"}
